@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RustExtended**
 
-- 🌱 I’m currently learning **C, Arduino, C**
+- 🌱 I’m currently learning **C, Arduino, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
